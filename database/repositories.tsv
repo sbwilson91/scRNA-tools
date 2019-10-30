@@ -85,6 +85,7 @@ CSN	NA	NA	NA	NA	wys8c764/CSN
 cTPnet	NA	NA	cTPnet	NA	zhouzilu/cTPnet
 Cyclum	NA	NA	NA	NA	KChen-lab/cyclum
 D3E	NA	NA	NA	NA	hemberg-lab/D3E
+DC3	NA	NA	NA	NA	SUwonglab/DC3
 DCA	NA	NA	DCA	NA	theislab/dca
 DCA_R	NA	DCA	NA	NA	cran/DCA
 ddSeeker	NA	NA	NA	NA	cgplab/ddSeeker
@@ -104,8 +105,12 @@ DEsingle	DEsingle	NA	NA	NA	miaozhun/DEsingle
 destiny	destiny	NA	NA	NA	NA
 Dhaka	NA	NA	NA	NA	MicrosoftGenomics/Dhaka
 DIEM	NA	NA	NA	NA	marcalva/diem
+<<<<<<< HEAD
 DiffVAE	NA	NA	NA	NA	ioanabica/DiffVAE
 DigitalCellSorter	NA	NA	NA	NA	sdomanskyi/DigitalCellSorter
+=======
+DigitalCellSorter	NA	NA	DigitalCellSorter	NA	sdomanskyi/DigitalCellSorter
+>>>>>>> 7df98a8c687ee463b8de7dcb2fb652a0b7b4d9f0
 DIMMSC	NA	NA	NA	NA	NA
 DISCO	NA	NA	NA	NA	NA
 DistMap	NA	NA	NA	NA	rajewsky-lab/distmap
@@ -113,6 +118,7 @@ DittoSeq	NA	NA	NA	NA	dtm2451/DittoSeq
 DoubletDecon	NA	NA	NA	NA	EDePasquale/DoubletDecon
 DoubletDetection	NA	NA	NA	NA	JonathanShor/DoubletDetection
 DoubletFinder	NA	NA	NA	NA	chris-mcginnis-ucsf/DoubletFinder
+DPre	NA	NA	NA	NA	LoaloaF/DPre
 DPT	NA	NA	NA	NA	NA
 DrImpute	NA	DrImpute	NA	NA	ikwak2/DrImpute
 dropbead	NA	NA	NA	NA	rajewsky-lab/dropbead
@@ -230,6 +236,7 @@ nimfa	NA	NA	nimfa	NA	ccshao/nimfa
 ODEGRfinder	NA	NA	NA	NA	hmatsu1226/ODEGRfinder
 OEFinder	NA	NA	NA	NA	lengning/OEFinder
 OGFSC	NA	NA	NA	NA	XZouProjects/OGFSC_matlab
+OnClass	NA	NA	NA	NA	wangshenguiuc/OnClass
 OnlinePCA	NA	NA	NA	NA	rikenbit/OnlinePCA.jl
 Oscope	Oscope	NA	NA	NA	NA
 Ouija	NA	NA	NA	NA	kieranrcampbell/ouija
@@ -400,6 +407,7 @@ SEGtool	NA	NA	NA	NA	NA
 SEPA	SEPA	NA	NA	NA	zji90/SEPA
 SEPIRA	SEPIRA	NA	NA	NA	YC3/SEPIRA
 seqgendiff	NA	seqgendiff	NA	NA	dcgerard/seqgendiff
+SERGIO	NA	NA	NA	NA	PayamDiba/SERGIO
 Seurat	NA	Seurat	NA	NA	satijalab/seurat
 SeuratV3Wizard	NA	NA	NA	NA	nasqar/seuratv3wizard
 SeuratWizard	NA	NA	NA	NA	nasqar/SeuratWizard
@@ -439,6 +447,7 @@ souporcell	NA	NA	NA	NA	wheaton5/souporcell
 SoupX	NA	NA	NA	NA	constantAmateur/SoupX
 SPADE	NA	NA	NA	NA	nolanlab/spade
 SparseDC	NA	SparseDC	NA	NA	cran/SparseDC
+SPARSim	NA	NA	NA	NA	NA
 Spectrum	NA	Spectrum	NA	NA	crj32/Spectrum
 Splatter	splatter	NA	NA	NA	Oshlack/splatter
 SPRING	NA	NA	NA	NA	AllonKleinLab/SPRING

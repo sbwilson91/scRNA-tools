@@ -454,7 +454,11 @@
     "Updated": "2019-10-02",
     "DOIs": "10.1126/science.aaa1934",
     "Dates": "2015-02-19",
+<<<<<<< HEAD
     "Citations": 1135,
+=======
+    "Citations": 1134,
+>>>>>>> 7df98a8c687ee463b8de7dcb2fb652a0b7b4d9f0
     "Alignment": false,
     "AlleleSpecific": false,
     "AlternativeSplicing": false,
@@ -675,7 +679,11 @@
     "Updated": "2018-08-31",
     "DOIs": "10.1016/j.cels.2018.06.011;10.1101/237214;10.1186/s13059-016-0930-3;10.1371/journal.pcbi.1004333",
     "Dates": "2018-09;2017-12-21;2016-04-15;2015-06-24",
+<<<<<<< HEAD
     "Citations": 192,
+=======
+    "Citations": 191,
+>>>>>>> 7df98a8c687ee463b8de7dcb2fb652a0b7b4d9f0
     "Alignment": false,
     "AlleleSpecific": false,
     "AlternativeSplicing": false,
@@ -720,7 +728,11 @@
     "Updated": "2019-06-28",
     "DOIs": "10.1038/nbt.4091",
     "Dates": "2018-04-02",
+<<<<<<< HEAD
     "Citations": 183,
+=======
+    "Citations": 182,
+>>>>>>> 7df98a8c687ee463b8de7dcb2fb652a0b7b4d9f0
     "Alignment": false,
     "AlleleSpecific": false,
     "AlternativeSplicing": false,
@@ -1526,7 +1538,11 @@
     "Updated": "2018-06-27",
     "DOIs": "10.1016/j.cels.2016.08.011",
     "Dates": "2016-10",
+<<<<<<< HEAD
     "Citations": 196,
+=======
+    "Citations": 195,
+>>>>>>> 7df98a8c687ee463b8de7dcb2fb652a0b7b4d9f0
     "Alignment": false,
     "AlleleSpecific": false,
     "AlternativeSplicing": false,
@@ -2237,7 +2253,11 @@
     "Updated": "2019-05-31",
     "DOIs": "10.1038/s41592-019-0425-8;10.1101/433102",
     "Dates": "2019-05-27;2018-10-03",
+<<<<<<< HEAD
     "Citations": 16,
+=======
+    "Citations": 15,
+>>>>>>> 7df98a8c687ee463b8de7dcb2fb652a0b7b4d9f0
     "Alignment": false,
     "AlleleSpecific": false,
     "AlternativeSplicing": false,
@@ -2591,7 +2611,11 @@
     "Updated": "2018-04-09",
     "DOIs": "10.1038/ncomms14049",
     "Dates": "2017-01-16",
+<<<<<<< HEAD
     "Citations": 802,
+=======
+    "Citations": 800,
+>>>>>>> 7df98a8c687ee463b8de7dcb2fb652a0b7b4d9f0
     "Alignment": true,
     "AlleleSpecific": false,
     "AlternativeSplicing": false,
@@ -3033,7 +3057,7 @@
     "Updated": "2019-03-15",
     "DOIs": "10.1101/344309;10.1186/s13059-019-1645-z",
     "Dates": "2018-06-11;2019-03-12",
-    "Citations": 2,
+    "Citations": 3,
     "Alignment": false,
     "AlleleSpecific": false,
     "AlternativeSplicing": false,
@@ -3435,7 +3459,7 @@
     "Updated": "2019-07-24",
     "DOIs": "10.1038/s41592-019-0466-z;10.1101/460246",
     "Dates": "2019-07-15;2018-11-02",
-    "Citations": 9,
+    "Citations": 10,
     "Alignment": false,
     "AlleleSpecific": false,
     "AlternativeSplicing": false,
@@ -3820,6 +3844,50 @@
     "Visualisation": false
   },
   {
+    "Tool": "DC3",
+    "Platform": "Python",
+    "Code": "https://github.com/SUwonglab/DC3",
+    "Description": "DC3: Deconvolution and coupled clustering from bulk and single cell genomics data",
+    "Categories": ["Clustering", "Integration"],
+    "Added": "2019-10-29",
+    "Updated": "2019-10-29",
+    "DOIs": "10.1038/s41467-019-12547-1",
+    "Dates": "2019-10-10",
+    "Citations": 0,
+    "Alignment": false,
+    "AlleleSpecific": false,
+    "AlternativeSplicing": false,
+    "Assembly": false,
+    "CellCycle": false,
+    "Classification": false,
+    "Clustering": true,
+    "DifferentialExpression": false,
+    "DimensionalityReduction": false,
+    "ExpressionPatterns": false,
+    "GeneFiltering": false,
+    "GeneNetworks": false,
+    "GeneSets": false,
+    "Haplotypes": false,
+    "Immune": false,
+    "Imputation": false,
+    "Integration": true,
+    "Interactive": false,
+    "MarkerGenes": false,
+    "Modality": false,
+    "Normalisation": false,
+    "Ordering": false,
+    "QualityControl": false,
+    "Quantification": false,
+    "RareCells": false,
+    "Simulation": false,
+    "StemCells": false,
+    "Transformation": false,
+    "UMIs": false,
+    "VariableGenes": false,
+    "Variants": false,
+    "Visualisation": false
+  },
+  {
     "Tool": "DCA",
     "Platform": "Python",
     "Code": "https://github.com/theislab/dca",
@@ -4054,7 +4122,7 @@
     "Updated": "2018-11-09",
     "DOIs": "10.1101/353607",
     "Dates": "2018-06-22",
-    "Citations": 4,
+    "Citations": 6,
     "Alignment": false,
     "AlleleSpecific": false,
     "AlternativeSplicing": false,
@@ -4144,7 +4212,11 @@
     "Updated": "2018-03-14",
     "DOIs": "10.1038/nbt.4042;10.1101/118778",
     "Dates": "2017-12-11;2017-03-20",
+<<<<<<< HEAD
     "Citations": 117,
+=======
+    "Citations": 116,
+>>>>>>> 7df98a8c687ee463b8de7dcb2fb652a0b7b4d9f0
     "Alignment": false,
     "AlleleSpecific": false,
     "AlternativeSplicing": false,
@@ -4678,7 +4750,7 @@
     "Description": "Identification of hematological cell types from heterogeneous single cell RNA-seq data.",
     "Categories": ["Classification", "Visualisation"],
     "Added": "2019-02-12",
-    "Updated": "2019-02-12",
+    "Updated": "2019-10-21",
     "DOIs": "10.1101/539833",
     "Dates": "2019-02-04",
     "Citations": 2,
@@ -4811,7 +4883,11 @@
     "Updated": "2017-09-01",
     "DOIs": "10.1126/science.aan3235",
     "Dates": "2017-08-31",
+<<<<<<< HEAD
     "Citations": 94,
+=======
+    "Citations": 93,
+>>>>>>> 7df98a8c687ee463b8de7dcb2fb652a0b7b4d9f0
     "Alignment": false,
     "AlleleSpecific": false,
     "AlternativeSplicing": false,
@@ -5018,6 +5094,51 @@
     "VariableGenes": false,
     "Variants": false,
     "Visualisation": false
+  },
+  {
+    "Tool": "DPre",
+    "Platform": "Python",
+    "Code": "https://github.com/LoaloaF/DPre",
+    "Description": "Computational identification of differentiation bias and genes underlaying cell type conversions",
+    "License": "MIT",
+    "Categories": ["GeneSets", "MarkerGenes", "Visualisation"],
+    "Added": "2019-10-24",
+    "Updated": "2019-10-24",
+    "DOIs": "10.1093/bioinformatics/btz789",
+    "Dates": "2019-10-17",
+    "Citations": 0,
+    "Alignment": false,
+    "AlleleSpecific": false,
+    "AlternativeSplicing": false,
+    "Assembly": false,
+    "CellCycle": false,
+    "Classification": false,
+    "Clustering": false,
+    "DifferentialExpression": false,
+    "DimensionalityReduction": false,
+    "ExpressionPatterns": false,
+    "GeneFiltering": false,
+    "GeneNetworks": false,
+    "GeneSets": true,
+    "Haplotypes": false,
+    "Immune": false,
+    "Imputation": false,
+    "Integration": false,
+    "Interactive": false,
+    "MarkerGenes": true,
+    "Modality": false,
+    "Normalisation": false,
+    "Ordering": false,
+    "QualityControl": false,
+    "Quantification": false,
+    "RareCells": false,
+    "Simulation": false,
+    "StemCells": false,
+    "Transformation": false,
+    "UMIs": false,
+    "VariableGenes": false,
+    "Variants": false,
+    "Visualisation": true
   },
   {
     "Tool": "DPT",
@@ -6424,7 +6545,11 @@
     "Updated": "2016-09-09",
     "DOIs": "10.1186/s13059-016-1010-4",
     "Dates": "2016-07-01",
+<<<<<<< HEAD
     "Citations": 84,
+=======
+    "Citations": 83,
+>>>>>>> 7df98a8c687ee463b8de7dcb2fb652a0b7b4d9f0
     "Alignment": false,
     "AlleleSpecific": false,
     "AlternativeSplicing": false,
@@ -7445,7 +7570,7 @@
     "Updated": "2019-07-04",
     "DOIs": "10.1038/s41586-019-1367-0",
     "Dates": "2019-07",
-    "Citations": 2,
+    "Citations": 4,
     "Alignment": false,
     "AlleleSpecific": false,
     "AlternativeSplicing": false,
@@ -8374,7 +8499,11 @@
     "Updated": "2019-01-06",
     "DOIs": "10.1093/bioinformatics/bty1044;10.1101/065094",
     "Dates": "2018-12-24;2016-07-21",
+<<<<<<< HEAD
     "Citations": 35,
+=======
+    "Citations": 34,
+>>>>>>> 7df98a8c687ee463b8de7dcb2fb652a0b7b4d9f0
     "Alignment": false,
     "AlleleSpecific": false,
     "AlternativeSplicing": false,
@@ -8464,7 +8593,11 @@
     "Updated": "2016-09-08",
     "DOIs": "10.1186/s13059-015-0844-5",
     "Dates": "2015-12",
+<<<<<<< HEAD
     "Citations": 324,
+=======
+    "Citations": 323,
+>>>>>>> 7df98a8c687ee463b8de7dcb2fb652a0b7b4d9f0
     "Alignment": false,
     "AlleleSpecific": false,
     "AlternativeSplicing": false,
@@ -8509,7 +8642,7 @@
     "Updated": "2019-10-02",
     "DOIs": "10.1186/s13059-017-1269-0",
     "Dates": "2017-07-24",
-    "Citations": 23,
+    "Citations": 24,
     "Alignment": false,
     "AlleleSpecific": false,
     "AlternativeSplicing": false,
@@ -9172,7 +9305,11 @@
     "Updated": "2018-11-15",
     "DOIs": "10.1016/j.cell.2016.11.038",
     "Dates": "2016-12",
+<<<<<<< HEAD
     "Citations": 312,
+=======
+    "Citations": 311,
+>>>>>>> 7df98a8c687ee463b8de7dcb2fb652a0b7b4d9f0
     "Alignment": false,
     "AlleleSpecific": false,
     "AlternativeSplicing": false,
@@ -9748,7 +9885,7 @@
     "Updated": "2018-11-09",
     "DOIs": "10.1101/gr.239202.118",
     "Dates": "2018-10-24",
-    "Citations": 7,
+    "Citations": 8,
     "Alignment": true,
     "AlleleSpecific": false,
     "AlternativeSplicing": false,
@@ -9928,7 +10065,7 @@
     "Updated": "2018-06-27",
     "DOIs": "10.1016/j.cels.2018.05.017",
     "Dates": "2018-08",
-    "Citations": 14,
+    "Citations": 15,
     "Alignment": false,
     "AlleleSpecific": false,
     "AlternativeSplicing": false,
@@ -10186,6 +10323,50 @@
     "Visualisation": false
   },
   {
+    "Tool": "OnClass",
+    "Platform": "Python",
+    "Code": "https://github.com/wangshenguiuc/OnClass",
+    "Description": "OnClass is a python package for single-cell cell type annotation. It uses the Cell Ontology to capture the cell type similarity.",
+    "Categories": ["Classification", "GeneSets", "Integration", "MarkerGenes"],
+    "Added": "2019-10-24",
+    "Updated": "2019-10-24",
+    "DOIs": "10.1101/810234",
+    "Dates": "NA",
+    "Citations": 0,
+    "Alignment": false,
+    "AlleleSpecific": false,
+    "AlternativeSplicing": false,
+    "Assembly": false,
+    "CellCycle": false,
+    "Classification": true,
+    "Clustering": false,
+    "DifferentialExpression": false,
+    "DimensionalityReduction": false,
+    "ExpressionPatterns": false,
+    "GeneFiltering": false,
+    "GeneNetworks": false,
+    "GeneSets": true,
+    "Haplotypes": false,
+    "Immune": false,
+    "Imputation": false,
+    "Integration": true,
+    "Interactive": false,
+    "MarkerGenes": true,
+    "Modality": false,
+    "Normalisation": false,
+    "Ordering": false,
+    "QualityControl": false,
+    "Quantification": false,
+    "RareCells": false,
+    "Simulation": false,
+    "StemCells": false,
+    "Transformation": false,
+    "UMIs": false,
+    "VariableGenes": false,
+    "Variants": false,
+    "Visualisation": false
+  },
+  {
     "Tool": "OnlinePCA",
     "Platform": "Julia",
     "Code": "https://github.com/rikenbit/OnlinePCA.jl",
@@ -10282,7 +10463,7 @@
     "Updated": "2018-06-27",
     "DOIs": "10.1093/bioinformatics/bty498;10.1101/060442",
     "Dates": "2018-06-23;2016-06-23",
-    "Citations": 10,
+    "Citations": 11,
     "Alignment": false,
     "AlleleSpecific": false,
     "AlternativeSplicing": false,
@@ -10326,7 +10507,7 @@
     "Updated": "2018-06-27",
     "DOIs": "10.1093/bioinformatics/bty498",
     "Dates": "2018-06-23",
-    "Citations": 5,
+    "Citations": 6,
     "Alignment": false,
     "AlleleSpecific": false,
     "AlternativeSplicing": false,
@@ -10905,7 +11086,7 @@
     "Updated": "2018-06-27",
     "DOIs": "10.1038/s41467-018-04696-6;10.1101/159913",
     "Dates": "2018-06-22;2017-07-06",
-    "Citations": 9,
+    "Citations": 10,
     "Alignment": false,
     "AlleleSpecific": false,
     "AlternativeSplicing": false,
@@ -12103,7 +12284,11 @@
     "Updated": "2019-04-05",
     "DOIs": "10.1038/nmeth.4197;10.1101/021592;10.1101/335000;10.1186/s13059-019-1670-y",
     "Dates": "2017-03-06;2015-06-27;2018-06-01;2019-03-27",
+<<<<<<< HEAD
     "Citations": 934,
+=======
+    "Citations": 933,
+>>>>>>> 7df98a8c687ee463b8de7dcb2fb652a0b7b4d9f0
     "Alignment": false,
     "AlleleSpecific": false,
     "AlternativeSplicing": false,
@@ -12237,7 +12422,11 @@
     "Updated": "2018-06-27",
     "DOIs": "10.1038/s41592-018-0033-z;10.1101/138677",
     "Dates": "2018-06-25;2017-05-16",
+<<<<<<< HEAD
     "Citations": 93,
+=======
+    "Citations": 92,
+>>>>>>> 7df98a8c687ee463b8de7dcb2fb652a0b7b4d9f0
     "Alignment": false,
     "AlleleSpecific": false,
     "AlternativeSplicing": false,
@@ -12637,7 +12826,11 @@
     "Updated": "2019-03-25",
     "DOIs": "10.1101/174029;10.1101/208819;10.1186/s13059-017-1382-0",
     "Dates": "2017-08-09;2017-10-25;2018-02-06",
+<<<<<<< HEAD
     "Citations": 207,
+=======
+    "Citations": 206,
+>>>>>>> 7df98a8c687ee463b8de7dcb2fb652a0b7b4d9f0
     "Alignment": false,
     "AlleleSpecific": false,
     "AlternativeSplicing": false,
@@ -12727,7 +12920,11 @@
     "Updated": "2018-03-14",
     "DOIs": "10.1093/bioinformatics/btw777;10.1101/069633",
     "Dates": "2017-01-14;2016-08-15",
+<<<<<<< HEAD
     "Citations": 140,
+=======
+    "Citations": 139,
+>>>>>>> 7df98a8c687ee463b8de7dcb2fb652a0b7b4d9f0
     "Alignment": false,
     "AlleleSpecific": false,
     "AlternativeSplicing": false,
@@ -13493,7 +13690,7 @@
     "Updated": "2019-01-06",
     "DOIs": "10.1186/s12918-018-0652-0",
     "Dates": "2018-12",
-    "Citations": 1,
+    "Citations": 2,
     "Alignment": false,
     "AlleleSpecific": false,
     "AlternativeSplicing": false,
@@ -15402,7 +15599,11 @@
     "Updated": "2018-03-14",
     "DOIs": "10.1038/nmeth.4263;10.1101/090167",
     "Dates": "2017-04-17;2016-11-28",
+<<<<<<< HEAD
     "Citations": 92,
+=======
+    "Citations": 91,
+>>>>>>> 7df98a8c687ee463b8de7dcb2fb652a0b7b4d9f0
     "Alignment": false,
     "AlleleSpecific": false,
     "AlternativeSplicing": false,
@@ -15627,7 +15828,11 @@
     "Updated": "2018-06-15",
     "DOIs": "10.1016/j.cell.2018.05.057;10.1101/237420",
     "Dates": "2018-08;2017-12-21",
+<<<<<<< HEAD
     "Citations": 77,
+=======
+    "Citations": 75,
+>>>>>>> 7df98a8c687ee463b8de7dcb2fb652a0b7b4d9f0
     "Alignment": false,
     "AlleleSpecific": false,
     "AlternativeSplicing": false,
@@ -16207,7 +16412,11 @@
     "Updated": "2018-04-02",
     "DOIs": "10.1038/nbt.4091;10.1101/165118;10.1186/s13059-016-0947-7",
     "Dates": "2018-04-02;2017-07-18;2016-04-27",
+<<<<<<< HEAD
     "Citations": 441,
+=======
+    "Citations": 439,
+>>>>>>> 7df98a8c687ee463b8de7dcb2fb652a0b7b4d9f0
     "Alignment": false,
     "AlleleSpecific": false,
     "AlternativeSplicing": false,
@@ -17220,7 +17429,11 @@
     "Updated": "2019-05-17",
     "DOIs": "10.1101/632216",
     "Dates": "2019-05-09",
+<<<<<<< HEAD
     "Citations": 8,
+=======
+    "Citations": 7,
+>>>>>>> 7df98a8c687ee463b8de7dcb2fb652a0b7b4d9f0
     "Alignment": true,
     "AlleleSpecific": false,
     "AlternativeSplicing": false,
@@ -17699,6 +17912,51 @@
     "Visualisation": false
   },
   {
+    "Tool": "SERGIO",
+    "Platform": "Python",
+    "Code": "https://github.com/PayamDiba/SERGIO",
+    "Description": "SERGIO is a simulator for single-cell expression data guided by gene regulatory networks.",
+    "License": "GPL-3",
+    "Categories": ["GeneNetworks", "Simulation"],
+    "Added": "2019-10-24",
+    "Updated": "2019-10-24",
+    "DOIs": "10.1101/716811",
+    "Dates": "NA",
+    "Citations": 1,
+    "Alignment": false,
+    "AlleleSpecific": false,
+    "AlternativeSplicing": false,
+    "Assembly": false,
+    "CellCycle": false,
+    "Classification": false,
+    "Clustering": false,
+    "DifferentialExpression": false,
+    "DimensionalityReduction": false,
+    "ExpressionPatterns": false,
+    "GeneFiltering": false,
+    "GeneNetworks": true,
+    "GeneSets": false,
+    "Haplotypes": false,
+    "Immune": false,
+    "Imputation": false,
+    "Integration": false,
+    "Interactive": false,
+    "MarkerGenes": false,
+    "Modality": false,
+    "Normalisation": false,
+    "Ordering": false,
+    "QualityControl": false,
+    "Quantification": false,
+    "RareCells": false,
+    "Simulation": true,
+    "StemCells": false,
+    "Transformation": false,
+    "UMIs": false,
+    "VariableGenes": false,
+    "Variants": false,
+    "Visualisation": false
+  },
+  {
     "Tool": "Seurat",
     "Platform": "R",
     "Code": "https://github.com/satijalab/seurat",
@@ -17709,7 +17967,11 @@
     "Updated": "2019-08-05",
     "DOIs": "10.1016/j.cell.2019.05.031;10.1038/nbt.3192;10.1038/nbt.4096;10.1101/164889;10.1101/460147;10.1101/576827",
     "Dates": "2019-06;2015-04-13;2018-04-02;2017-07-18;2018-11-02;2019-03-14",
+<<<<<<< HEAD
     "Citations": 1833,
+=======
+    "Citations": 1829,
+>>>>>>> 7df98a8c687ee463b8de7dcb2fb652a0b7b4d9f0
     "Alignment": false,
     "AlleleSpecific": false,
     "AlternativeSplicing": false,
@@ -18012,7 +18274,7 @@
     "Updated": "2018-08-17",
     "DOIs": "10.1371/journal.pcbi.1006369",
     "Dates": "2018-08-13",
-    "Citations": 3,
+    "Citations": 4,
     "Alignment": false,
     "AlleleSpecific": false,
     "AlternativeSplicing": false,
@@ -19433,6 +19695,51 @@
     "Visualisation": false
   },
   {
+    "Tool": "SPARSim",
+    "Platform": "R",
+    "Code": "https://gitlab.com/sysbiobig/sparsim",
+    "Description": "SPARSim is a single cell RNA-seq (scRNA-seq) count data simulator",
+    "License": "GPL-3",
+    "Categories": ["Simulation"],
+    "Added": "2019-10-28",
+    "Updated": "2019-10-28",
+    "DOIs": "10.1093/bioinformatics/btz752",
+    "Dates": "2019-10-09",
+    "Citations": 0,
+    "Alignment": false,
+    "AlleleSpecific": false,
+    "AlternativeSplicing": false,
+    "Assembly": false,
+    "CellCycle": false,
+    "Classification": false,
+    "Clustering": false,
+    "DifferentialExpression": false,
+    "DimensionalityReduction": false,
+    "ExpressionPatterns": false,
+    "GeneFiltering": false,
+    "GeneNetworks": false,
+    "GeneSets": false,
+    "Haplotypes": false,
+    "Immune": false,
+    "Imputation": false,
+    "Integration": false,
+    "Interactive": false,
+    "MarkerGenes": false,
+    "Modality": false,
+    "Normalisation": false,
+    "Ordering": false,
+    "QualityControl": false,
+    "Quantification": false,
+    "RareCells": false,
+    "Simulation": true,
+    "StemCells": false,
+    "Transformation": false,
+    "UMIs": false,
+    "VariableGenes": false,
+    "Variants": false,
+    "Visualisation": false
+  },
+  {
     "Tool": "Spectrum",
     "Platform": "R",
     "Code": "https://github.com/crj32/Spectrum",
@@ -19488,7 +19795,11 @@
     "Updated": "2018-03-14",
     "DOIs": "10.1101/133173;10.1186/s13059-017-1305-0",
     "Dates": "2017-05-02;2017-09-12",
+<<<<<<< HEAD
     "Citations": 107,
+=======
+    "Citations": 106,
+>>>>>>> 7df98a8c687ee463b8de7dcb2fb652a0b7b4d9f0
     "Alignment": false,
     "AlleleSpecific": false,
     "AlternativeSplicing": false,
@@ -19667,7 +19978,7 @@
     "Updated": "2018-12-01",
     "DOIs": "10.1038/s41467-018-07170-5;10.1101/095810",
     "Dates": "2018-11-20;2016-12-21",
-    "Citations": 5,
+    "Citations": 7,
     "Alignment": false,
     "AlleleSpecific": false,
     "AlternativeSplicing": false,
@@ -19712,7 +20023,11 @@
     "Updated": "2019-01-25",
     "DOIs": "10.1093/bioinformatics/bts635",
     "Dates": "2012-10-25",
+<<<<<<< HEAD
     "Citations": 6995,
+=======
+    "Citations": 6992,
+>>>>>>> 7df98a8c687ee463b8de7dcb2fb652a0b7b4d9f0
     "Alignment": true,
     "AlleleSpecific": false,
     "AlternativeSplicing": false,
@@ -20863,8 +21178,16 @@
     "Description": "The software identifies instances of sequence reads originating from the same mRNA molecule (sharing a UMI) but which map to a series of adjacent coordinates on the reference.",
     "License": "BSD-3-clause",
     "Categories": ["Quantification", "UMIs"],
+<<<<<<< HEAD
     "Added": "2018-12-01",
     "Updated": "2018-12-01",
+=======
+    "Added": "2016-09-12",
+    "Updated": "2018-03-14",
+    "DOIs": "10.1101/051755;10.1101/gr.209601.116",
+    "Dates": "2016-05-09;2017-01-18",
+    "Citations": 173,
+>>>>>>> 7df98a8c687ee463b8de7dcb2fb652a0b7b4d9f0
     "Alignment": false,
     "AlleleSpecific": false,
     "AlternativeSplicing": false,
@@ -21351,7 +21674,7 @@
     "Updated": "2018-11-19",
     "DOIs": "10.1186/s13059-018-1575-1",
     "Dates": "2018-11-12",
-    "Citations": 3,
+    "Citations": 4,
     "Alignment": false,
     "AlleleSpecific": false,
     "AlternativeSplicing": false,
@@ -21800,7 +22123,11 @@
     "Updated": "2019-10-02",
     "DOIs": "10.1038/s41467-017-02554-5;10.1101/125112;10.1101/250126;10.1186/s13059-018-1406-4",
     "Dates": "2018-01-18;2017-04-06;2018-01-18;2018-02-26",
+<<<<<<< HEAD
     "Citations": 141,
+=======
+    "Citations": 140,
+>>>>>>> 7df98a8c687ee463b8de7dcb2fb652a0b7b4d9f0
     "Alignment": false,
     "AlleleSpecific": false,
     "AlternativeSplicing": false,
@@ -21889,7 +22216,11 @@
     "Updated": "2018-06-01",
     "DOIs": "10.1093/gigascience/giy059;10.1101/153940",
     "Dates": "2018-05-26;2017-06-22",
+<<<<<<< HEAD
     "Citations": 35,
+=======
+    "Citations": 34,
+>>>>>>> 7df98a8c687ee463b8de7dcb2fb652a0b7b4d9f0
     "Alignment": true,
     "AlleleSpecific": false,
     "AlternativeSplicing": false,

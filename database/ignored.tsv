@@ -63,6 +63,7 @@ BASiCS	CRAN	fmbasics
 BASiCS	PyPI	basics
 batchelor	CRAN	batch
 BCseq	Bioc	bcSeq
+BEELINE	PyPI	beeline
 BEER	CRAN	beepr
 BEER	CRAN	bender
 BEER	CRAN	ber
@@ -167,6 +168,7 @@ countClust	CRAN	countcolors
 CSHMM	PyPI	csh
 CSN	CRAN	csn
 D3E	PyPI	d3
+DC3	PyPI	dc
 DCA	CRAN	DCA
 DCA_R	Bioc	dcanr
 ddSeeker	PyPI	seeker
@@ -239,6 +241,9 @@ DISCO	PyPI	pydisco
 DISCO	PyPI	redisco
 DistMap	CRAN	distcomp
 DoubletDecon	CRAN	DoubleCone
+DPre	PyPI	dgPre
+DPre	PyPI	dparse
+DPre	PyPI	pre
 DPT	CRAN	Dpit
 DrImpute	Bioc	impute
 dropEst	CRAN	droptest
@@ -266,6 +271,7 @@ Dynamo	PyPI	dynamo3
 Dynamo	PyPI	dynamodb-ce
 Dynamo	PyPI	DynamodbFdw
 Dynamo	PyPI	dynamodict
+Dynamo	PyPI	dynamof
 Dynamo	PyPI	dynamolock
 Dynamo	PyPI	dynamon
 Dynamo	PyPI	dynamongo
@@ -355,6 +361,7 @@ LAmbDA	PyPI	lambdaconda
 LAmbDA	PyPI	lambdacore
 LAmbDA	PyPI	lambdagram
 LAmbDA	PyPI	lambdaguard
+LAmbDA	PyPI	LambdaGuard
 LAmbDA	PyPI	lambdahub
 LAmbDA	PyPI	lambdaJSON
 LAmbDA	PyPI	lambdantic
@@ -363,6 +370,7 @@ LAmbDA	PyPI	lambdapi
 LAmbDA	PyPI	lambdapy
 LAmbDA	PyPI	lambdaquery
 LAmbDA	PyPI	lambdarest
+LAmbDA	PyPI	lambdas
 LAmbDA	PyPI	lambdasim
 LAmbDA	PyPI	lambdaskill
 LAmbDA	PyPI	lambdata
@@ -512,6 +520,8 @@ NetworkInference	CRAN	NetworkInference
 nimfa	CRAN	nima
 ODEGRfinder	Bioc	derfinder
 ODEGRfinder	CRAN	deGradInfer
+OnClass	PyPI	class
+OnClass	PyPI	olass
 OnlinePCA	CRAN	onlinePCA
 Palantir	PyPI	palantiri
 ParaDPMM	Conda	param
@@ -785,6 +795,8 @@ scvis	PyPI	scvi
 SEGtool	CRAN	MSEtool
 SEPA	CRAN	SEA
 SEPA	PyPI	sepa
+SERGIO	PyPI	segyio
+SERGIO	PyPI	sergio
 SHARP	CRAN	shape
 SHARP	CRAN	shapeR
 SHARP	CRAN	shar
@@ -861,6 +873,17 @@ SPADE	CRAN	spate
 SPADE	PyPI	spade
 SPADE	PyPI	SPADE
 SparseDC	Bioc	sparseDOSSA
+SPARSim	CRAN	parSim
+SPARSim	CRAN	SPAr
+SPARSim	CRAN	sparseinv
+SPARSim	CRAN	SparseLPM
+SPARSim	CRAN	SparseM
+SPARSim	CRAN	SparseMDC
+SPARSim	CRAN	SparseMSE
+SPARSim	CRAN	sparseMVN
+SPARSim	CRAN	sparseSEM
+SPARSim	CRAN	sparseSVM
+SPARSim	CRAN	sparsio
 Spectrum	PyPI	spectrum
 Splatter	CRAN	plater
 SPRING	PyPI	emspring
@@ -876,6 +899,7 @@ SPRING	PyPI	springerdl
 SPRING	PyPI	springfield
 SPRING	PyPI	springheel
 SPRING	PyPI	springserve
+SPRING	PyPI	springust
 SPRING	PyPI	springy
 SPRING	PyPI	sprint
 sscClust	CRAN	scclust
@@ -896,6 +920,7 @@ STREAM	PyPI	gcstream
 STREAM	PyPI	imstream
 STREAM	PyPI	iostream
 STREAM	PyPI	mstream
+STREAM	PyPI	nfstream
 STREAM	PyPI	pystream
 STREAM	PyPI	steam
 STREAM	PyPI	steamy

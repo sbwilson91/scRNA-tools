@@ -247,6 +247,8 @@ cTPnet	Integration
 Cyclum	CellCycle
 Cyclum	DimensionalityReduction
 D3E	DifferentialExpression
+DC3	Clustering
+DC3	Integration
 DCA	Imputation
 DCA_R	DimensionalityReduction
 ddSeeker	QualityControl
@@ -314,6 +316,9 @@ DoubletDetection	Visualisation
 DoubletFinder	Clustering
 DoubletFinder	DimensionalityReduction
 DoubletFinder	QualityControl
+DPre	GeneSets
+DPre	MarkerGenes
+DPre	Visualisation
 DPT	ExpressionPatterns
 DPT	Ordering
 DPT	Visualisation
@@ -660,6 +665,10 @@ OEFinder	Interactive
 OEFinder	Normalisation
 OEFinder	QualityControl
 OGFSC	GeneFiltering
+OnClass	Classification
+OnClass	GeneSets
+OnClass	Integration
+OnClass	MarkerGenes
 OnlinePCA	DimensionalityReduction
 OnlinePCA	Visualisation
 Oscope	CellCycle
@@ -1118,6 +1127,8 @@ SEPA	GeneSets
 SEPA	Interactive
 SEPIRA	GeneNetworks
 seqgendiff	Simulation
+SERGIO	GeneNetworks
+SERGIO	Simulation
 Seurat	Clustering
 Seurat	DifferentialExpression
 Seurat	DimensionalityReduction
@@ -1246,6 +1257,7 @@ SPADE	Ordering
 SPADE	Visualisation
 SparseDC	Clustering
 SparseDC	MarkerGenes
+SPARSim	Simulation
 Spectrum	Clustering
 Spectrum	Visualisation
 Splatter	Simulation
